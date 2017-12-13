@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Console_while_using_Git
+namespace FirstConsole
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.Write("How long can you eat it");
+            Console.ReadKey();
         }
     }
 }
